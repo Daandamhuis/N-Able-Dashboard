@@ -1,0 +1,66 @@
+@media (min-width: 767px) {
+                body {
+                    padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+                }
+            }
+
+            .sidebar-nav {
+                padding: 9px 0;
+            }
+
+            #sidebar {
+                float:right;
+            }
+
+            #content {
+                margin-left: 0;
+            }
+
+            @media (max-width: 767px) {
+                #sidebar {
+                    float:none;
+                }
+            }
+
+            .box {
+                margin: 5px;
+            }
+
+            .brand span{
+                color: #881023;
+            }
+
+            .brand i {
+                color: #470241;
+            }
+
+            @media (min-width: 1800px) {
+                .container, .navbar {
+                    width: 1840px;
+                }
+
+                .navbar .brand {
+                    padding-left: 35px;
+                }
+
+                .navbar .container {
+                    width: 1840px;
+                }
+
+                .span3 {
+                    width: 390px;
+                }
+                .span4 {
+                    width: 350px;
+                }
+                .span5 {
+                    width: 300px;
+                }
+                .span9 {
+                    width: 1550px;
+                }
+                .span2 {
+                    width: 260px;
+                }
+
+            }
