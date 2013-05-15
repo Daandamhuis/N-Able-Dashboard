@@ -1,7 +1,7 @@
 /* ================================
 
     N-Able Class which provides easy access to N-Central, for more information on how to use this class see backend/php2json.php
-    This class is created by; Michael Dale, mdale@dalegroup.net
+    The N-Able class (class/nable.class.php) is created by; Michael Dale, mdale@dalegroup.net
     Edited by; Daan Damhuis, info@daandamhuis.nl
         - Made the create array function some what more "dynamic"
 
